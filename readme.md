@@ -1,10 +1,3 @@
-<style>
-  body {
-    text-align: justify;
-  }
-</style>
-
-
 # Portfólio Ninja 
 
 ## Introdução
