@@ -11,7 +11,7 @@
 ## Estrutura 
 
 Com um sistema de organização baseado em três menús `Sobre`, `Trabalhos` e `Contatos`.  Composto por uma estrutura baseada em Menú no top (*navbar*), corpo (*content*) e rodapé (*footer*). Enquanto que sua composição de diretórios consiste apenas de uma página principal `index.html`, uma pasta para o estilo `css` e uma pasta `img` para as imagens.
-< style='text-align: justify;'>Sua estrutura possui importação das fonts **Roboto** e **Knewave**, bem como seu arquivo de style css trabalha com variáveis definidas no *root* possibilitando facilidade para personalização de cores.
+Sua estrutura possui importação das fonts **Roboto** e **Knewave**, bem como seu arquivo de style css trabalha com variáveis definidas no *root* possibilitando facilidade para personalização de cores.
 Possui alguns configurações de responsividade, entretanto é notório distoções quando reduzido o tamanho da tela, uma vez que, seu responsivo está configurado para tamanho desktop padrão e mobile com telas de 450px, não sendo exatamente um de seus ponto fortes.
 
 ## Instalação
